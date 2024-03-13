@@ -41,4 +41,4 @@ This work highlights the potential of machine learning models for SoC performanc
 ## Acknowledgments
 - LIRMM Univ. Montpellier, Montpellier, France
 
-For more detailed information about the methodology, results, and conclusions, please refer to the [full paper]([link-to-paper](https://github.com/GhaziBenHenia/Predictive_Modeling_and_Interpretability_Techniques_for_SoC_Performance_with_Machine_Learning/blob/main/Predictive_Modeling_and_Interpretability_Techniques_for_SoC_Performance_with_Machine_Learning.ipynb)https://github.com/GhaziBenHenia/Predictive_Modeling_and_Interpretability_Techniques_for_SoC_Performance_with_Machine_Learning/blob/main/Predictive_Modeling_and_Interpretability_Techniques_for_SoC_Performance_with_Machine_Learning.ipynb).
+For more detailed information about the methodology, results, and conclusions, please refer to the [full paper](https://github.com/GhaziBenHenia/Predictive_Modeling_and_Interpretability_Techniques_for_SoC_Performance_with_Machine_Learning/blob/main/Predictive_Modeling_and_Interpretability_Techniques_for_SoC_Performance_with_Machine_Learning.ipynb).
